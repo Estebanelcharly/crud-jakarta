@@ -1,4 +1,4 @@
-![Project image](./assets/Bild.jpeg)
+![Project image](assets/Bild.jpeg)
 
 # CRUD JAKARTA EE
 ___
@@ -114,3 +114,16 @@ ___
     </servlet-mapping>
 </web-app>
 ```
+## Deployment
+
+Diese Anwendung ist dafür ausgelegt, auf dem [Wildfly-Anwendungsserver](https://www.wildfly.org/) bereitgestellt zu werden.
+Um die Anwendung zu bauen, muss der folgende Befehl ausgeführt werden:
+```bash
+mvn clean package
+```
+Nach der Ausführung dieses Befehls erhalten Sie eine Datei vom Typ `.war`
+Diese .war-Datei sollte auf dem Wildfly-Anwendungsserver bereitgestellt werden.
+
+### Anforderungen
+1. Der Data Source für die Datenbankverbindung muss konfiguriert werden, bevor die .war-Datei bereitgestellt wird.
+2. Speichern Sie die .war-Datei im Ordner "deployment" des Wildfly-Anwendungsservers.
