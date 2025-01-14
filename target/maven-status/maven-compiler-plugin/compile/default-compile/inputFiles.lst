@@ -1,0 +1,7 @@
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/controller/AppController.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/model/Course.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/persistence/EntityManagerProducer.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/persistence/repository/CourseRepositoryImpl.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/persistence/repository/ICourseRepository.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/service/CourseServiceImpl.java
+/Users/estebannecourbina/CrudJakarta/CrudJakarta/src/main/java/org/app/service/ICourseService.java
