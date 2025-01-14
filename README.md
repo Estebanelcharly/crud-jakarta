@@ -1,4 +1,4 @@
-![Project image](assets/Bild.jpeg)
+![Project image](assets/Bild.png)
 
 # CRUD JAKARTA EE
 ___
